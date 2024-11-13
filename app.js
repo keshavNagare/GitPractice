@@ -1,1 +1,1 @@
-var new1;
+var new1 = 1;
